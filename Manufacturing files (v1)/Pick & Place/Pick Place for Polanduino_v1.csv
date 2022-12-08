@@ -1,0 +1,68 @@
+Altium Designer Pick and Place Locations
+E:\RP2040_Projekty\Polanduino (Classic Arduino)\Project Outputs for Polanduino_v1\Pick Place for Polanduino_v1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       30.11.22
+Time:       07:45
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U502","TD1583","TopLayer","ICC_SO8_SOP8_490X390X160_P127_R","17.4500","27.8500","360","IC; Buck regulator;"
+"R512","15k","TopLayer","RES_0603_R","14.2500","36.9000","90","Resistor; Thick Film; 15k; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);"
+"R511","15k","TopLayer","RES_0603_R","16.4000","36.1500","180","Resistor; Thick Film; 15k; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);"
+"R505","5k1","TopLayer","RES_0603_R","22.6000","25.4500","270","Resistor; Thick Film; 5k1; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);"
+"R504","15k","TopLayer","RES_0603_R","21.2000","25.4500","270","Resistor; Thick Film; 15k; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);"
+"R503","2k","TopLayer","RES_0603_R","1.5000","29.9500","270","Resistor; Thick Film; 2k2; 1%; 100mW; 100PPM; 75V; Standard; SMD; 0603 (1608);"
+"R502","6.2k","TopLayer","RES_0603_R","4.3000","29.9500","270","Resistor; Thick Film; GENERIC; TBD; TBD; TBD; TBD; TBD; SMD; 0603 (1608);"
+"Q900","PMOS","TopLayer","PKG_SOT23-3_TO236","10.2000","33.8500","360","Transistor; PMOS;"
+"L500","15uH","TopLayer","IND_SUM_0630CDMCCDS_700X660X280_R","9.9000","27.8000","180","Inductor;"
+"D502","SS13 (1A/30V)","TopLayer","DIO_SMA_UNI_R","18.8000","14.0500","180","Diode; Schottky; Unipolar;"
+"D500","SS13 (1A/30V)","TopLayer","DIO_SMA_UNI_R","15.8500","33.4500","360","Diode; Schottky; Unipolar;"
+"C776","100nF","TopLayer","CAP_0603_R","16.4000","37.5500","180","Capacitor; MLCC; 100nF; TBD; TBD; TBD; TBD; SMD; 0603 (1608);"
+"C504","100uF/35V","TopLayer","CAP_SMD_SIZE_D8","19.3500","19.7000","270","Capacitor; Polarized;"
+"C503","DNP","TopLayer","CAP_0603_R","2.9000","29.9500","270","Capacitor; MLCC; DNP; TBD; TBD; TBD; DO NOT PLACE; SMD; 0603 (1608);"
+"C502","22uF/16V","TopLayer","CAP_0805_R","3.3500","27.5000","360","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0805 (2012);"
+"C501","22uF/16V","TopLayer","CAP_0805_R","3.3500","25.6000","360","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0805 (2012);"
+"C1","2.2uF","TopLayer","CAP_0402_R","24.8000","32.2000","90","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"C2","2.2uF","TopLayer","CAP_0402_R","29.8500","33.4500","90","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"U3","NCP114ASN330T1G","TopLayer","ICC_TSOT-5_290X160H110_P95","27.3000","32.9500","270","ICC; LDO;"
+"J92","5A, 2.0mm","TopLayer","CON_WRT_694108301002","10.7500","16.1000","270","Connector; DC Barrel Jack;"
+"R9","5.1k","TopLayer","RES_0402_R","9.5500","39.2000","180","Resistor; Thick Film; GENERIC; TBD; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"R8","5.1k","TopLayer","RES_0402_R","9.5500","36.2000","180","Resistor; Thick Film; GENERIC; TBD; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"J33","U262-161N-4BVC11","TopLayer","CON_XKB_U262-161N-4BVC11","4.9625","37.3999","270","Connector; USB 3.1 Type C; Receptacle; 24-pin; USB 2.0 Only;"
+"R38","4.7k","TopLayer","RES_0402_R","20.1000","48.0000","270","Resistor; Thick Film; 4.7k; 1%; 62.5mW; 100PPM; 50V; Standard; SMD; 0402 (1005);"
+"R37","4.7k","TopLayer","RES_0402_R","22.6500","48.0000","270","Resistor; Thick Film; 4.7k; 1%; 62.5mW; 100PPM; 50V; Standard; SMD; 0402 (1005);"
+"R33","2k","TopLayer","RES_0402_R","25.4500","30.0000","360","Resistor; Thick Film; GENERIC; TBD; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"LED26","Red","TopLayer","LED_0402_R","27.6500","30.0000","0","Diode; LED; Red;"
+"C18","47uF","TopLayer","CAP_0603_R","13.2000","43.4000","90","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0603 (1608);"
+"X1","12.000MHz","TopLayer","OSC_3225_4P_R","45.3000","24.2500","180","Oscillator; Crystal;"
+"U2","W25Q64JV","TopLayer","ICC_WSON8_500X600X80P127_EP","30.0000","21.6000","0","ICC"
+"U1","RP2040","TopLayer","ICC_QFN56_700X700X90_P40_EP_RP2040","37.6000","27.2500","0","IC; MCU;"
+"SW2","TACT Switch","TopLayer","SWI_C&K_PTS526SX08","64.8500","16.4893","90","Switch; Tactile; Monostable;"
+"SW1","TACT Switch","TopLayer","SWI_C&K_PTS526SX08","7.7893","46.9500","0","Switch; Tactile; Monostable;"
+"R7","100R","TopLayer","RES_0402_R","31.7000","32.2000","180","Resistor; Thick Film; 100R; 1%; 62.5mW; 100PPM; 50V; Standard; SMD; 0402 (1005);"
+"R6","1k","TopLayer","RES_0402_R","43.4000","26.4500","0","Resistor; Thick Film; 1k; 1%; 62.5mW; 100PPM; 50V; Standard; SMD; 0402 (1005);"
+"R5","1k","TopLayer","RES_0402_R","25.5000","19.3500","270","Resistor; Thick Film; 1k; 1%; 62.5mW; 100PPM; 50V; Standard; SMD; 0402 (1005);"
+"R4","DNP","TopLayer","RES_0402_R","26.5000","19.3500","90","Resistor; Thick Film; GENERIC; TBD; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"R3","10k","TopLayer","RES_0402_R","43.4000","29.4500","0","Resistor; Thick Film; 10k; 1%; 62.5mW; 100PPM; 50V; Standard; SMD; 0402 (1005);"
+"R2","27R","TopLayer","RES_0402_R","27.6500","28.9000","0","Resistor; Thick Film; GENERIC; TBD; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"R1","27R","TopLayer","RES_0402_R","27.6500","27.8500","0","Resistor; Thick Film; GENERIC; TBD; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"C17","2.2uF","TopLayer","CAP_0402_R","31.7000","31.2000","0","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"C16","2.2uF","TopLayer","CAP_0402_R","31.7000","30.0500","0","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"C15","2.2uF","TopLayer","CAP_0402_R","30.9500","29.0500","0","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"C14","100nF","TopLayer","CAP_0402_R","43.4000","28.4500","180","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"C13","100nF","TopLayer","CAP_0402_R","30.9500","26.4500","0","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"C12","100nF","TopLayer","CAP_0402_R","30.9500","27.4500","0","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"C11","100nF","TopLayer","CAP_0402_R","34.4500","21.6500","90","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"C10","100nF","TopLayer","CAP_0402_R","38.6000","21.6500","90","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"C9","100nF","TopLayer","CAP_0402_R","34.6000","32.8500","270","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"C8","100nF","TopLayer","CAP_0402_R","43.4000","27.4500","180","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"C7","100nF","TopLayer","CAP_0402_R","38.7500","32.8500","270","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"C6","15pF","TopLayer","CAP_0402_R","45.9500","22.1000","180","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"C5","15pF","TopLayer","CAP_0402_R","45.4000","26.4500","180","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"C4","2.2uF","TopLayer","CAP_0402_R","27.6500","26.7500","0","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
+"C3","100nF","TopLayer","CAP_0402_R","27.6500","25.7500","0","Capacitor; MLCC; GENERIC; TBD; TBD; TBD; TBD; SMD; 0402 (1005);"
