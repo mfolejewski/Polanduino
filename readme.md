@@ -7,6 +7,7 @@ TBD
 
 ## License
 Project published as Open Source Hardware (OSHW) under CERN OHL v1.2 (Open Hardware Licence).
+
 ![Screenshot](oshw_facts.png)
 
 ## Press release
