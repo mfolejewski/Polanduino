@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Polanduino_v1.PcbDoc   30.11.2022  07:44:31
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 [TOP] to L2 [BOT]
+ASCII Plated RoundHoles File : Polanduino_v1-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : Polanduino_v1-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : Polanduino_v1-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.25mm (10mil)                                            Round             356       PTH        0.00mm (0.00inch)
+T2      0.6mm (24mil)                                             Slot              4         PTH        0.00mm (0.00inch)
+T3      0.8mm (31mil)                                             Slot              3         PTH        0.00mm (0.00inch)
+T4      1mm (39mil)                                               Round             46        PTH        0.00mm (0.00inch)
+T5      0.65mm (26mil)                                            Round             2         NPTH       0.00mm (0.00inch)
+T6      3.2mm (126mil)                                            Round             3         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              414
+
+Total Processing Time (hh:mm:ss) : 00:00:01
